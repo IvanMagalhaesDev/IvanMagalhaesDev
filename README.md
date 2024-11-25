@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IvanMagalhaesDev
+- 👀 I’m interested in action movies, series, math and some scifi books
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on new projets, speacilly the ones with developtment to the brazilian-north west semiarid
+- 😄 Pronouns: He/Him
